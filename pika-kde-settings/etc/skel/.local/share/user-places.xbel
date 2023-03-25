@@ -15,30 +15,6 @@
    <GroupState-SearchFor-IsHidden>false</GroupState-SearchFor-IsHidden>
   </metadata>
  </info>
- <bookmark href="file:///home/pikaos">
-  <title>Home</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="user-home"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1679734313/0</ID>
-    <isSystemItem>true</isSystemItem>
-   </metadata>
-  </info>
- </bookmark>
- <bookmark href="file:///home/pikaos/Desktop">
-  <title>Desktop</title>
-  <info>
-   <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="user-desktop"/>
-   </metadata>
-   <metadata owner="http://www.kde.org">
-    <ID>1679734313/1</ID>
-    <isSystemItem>true</isSystemItem>
-   </metadata>
-  </info>
- </bookmark>
  <bookmark href="remote:/">
   <title>Network</title>
   <info>
